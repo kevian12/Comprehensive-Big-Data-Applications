@@ -1,6 +1,9 @@
 # Comprehensive-Big-Data-Applications
 
 # 大数据基础实验平台
+
+**⚠️ 实验报告文件位于 `master` 分支，请点击上方 Branch 切换到 master 查看**
+
 **完成人**：周龑翔
 
 本项目完整复现了从0到1构建大数据实验平台的全过程，涵盖 Hadoop 生态核心组件的部署、开发与调优，适用于课程设计或自学参考。
