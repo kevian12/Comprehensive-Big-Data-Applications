@@ -1,0 +1,3 @@
+Hello MapReduce bye MapReduce
+Hello Hadoop bye Hadoop
+Hello Hadoop MapReduce

@@ -1,0 +1,2 @@
+type=command
+command=beeline -u "jdbc:hive2://hadoop03:10000" -n root -f /export/data/test.sql

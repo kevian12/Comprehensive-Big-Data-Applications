@@ -1,0 +1,4 @@
+type=command
+command=hadoop jar hadoop-mapreduce-examples-3.3.0.jar wordcount \
+hdfs://hadoop01:9000/wordcount/input/word.txt \
+hdfs://hadoop01:9000/wordcount/output/azkaban_job
