@@ -25,8 +25,8 @@
 
 ## 🗂️ 实验报告目录
 
-| 编号 | 实验内容 | 核心技术 | 查看报告 |
-| :--- | :--- | :--- | :--- |
+| 编号 | 实验内容 | 核心技术 |
+| :--- | :--- | :--- |
 | 实验1 | Hadoop 集群完全分布式部署 | HDFS/YARN/SSH |
 | 实验2 | HDFS Shell 与 Java API 操作 | HDFS/FileSystem API |
 | 实验3 | MapReduce 编程：去重/TopN/倒排索引 | MapReduce/YARN |
